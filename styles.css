@@ -1,0 +1,74 @@
+.header{
+  background-image: url("MESSI-12.jpg");
+  background-size: cover;
+  height: 700px;
+  padding:20px;
+  text-align: center;
+  color: white;
+  padding-top: 200px;
+}
+.post{
+  background-color: #88be23;
+  padding:20px;
+  text-align: left;
+  padding-left:0px;
+  padding-right: 0px;
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+.footer{
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  font-size: 15px;
+  text-align: center;
+  padding: 10px;
+}
+.total{
+margin: 0 auto;
+}
+
+h1{
+  font-size: 80px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+}
+h2{
+  font-size: 50px;
+  font-family: helvetica;
+  color: white;
+  background-color: #87CEEB;
+  padding: 20px;
+  text-align: center;
+}
+p{
+  font-size: 15px;
+  font-family: helvetica;
+  color: white;
+  padding: 10px 200px 10px 200px;
+
+}
+img{
+  padding: 0 100px 0 100;
+  width: 100%;
+}
+nav{
+  font-size: 15px;
+  font-family: sans-serif;
+  color: white;
+  background-color: #88be23;
+  position: sticky;
+  text-align: center;
+  padding: 10px;
+}
+nav a{
+  color: white;
+  font-weight: bold;
+
+}
+body{
+  margin: 0
+}
